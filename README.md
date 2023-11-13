@@ -1,8 +1,7 @@
----
+
 **Disciplina**: UCP1 - Tecnologia e Voo com Drones
 **Profs**.: Camilo Barreto e Thiago Cappareli
 **IFTM - Campus Uberlândia Centro**
----
 
 ## Comandos de Configuração:
 
